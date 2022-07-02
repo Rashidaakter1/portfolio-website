@@ -1,0 +1,55 @@
+[
+    {"id" :1,
+      "name":"UNISEQ TECH & ENGINEERING LTD",
+      "link":"https://computer-parts-d6618.web.app/",
+      "img": "https://i.ibb.co/nLYCB1w/bookstore-1.png",
+      "slide":
+      {
+        "img1":"https://i.ibb.co/nLYCB1w/bookstore-1.png",
+        "img2":"https://i.ibb.co/nLYCB1w/bookstore-1.png",
+        "img3":"https://i.ibb.co/nLYCB1w/bookstore-1.png"
+      },
+      "featuresPart":{
+        "feature1":"Implemented Client site with React js and used React Router for Protected route",
+        "feature2":"Made Homepage , Login page and Dashboard for users who sign up",
+        "feature3":"Enabled admin role and had dashboard for admin users"
+      }
+    },
+
+
+   
+
+
+    {"id" :2,
+      "name":"MOTOR'S MANIA",
+      "link":"https://nextbike-204d0.web.app/",
+      "img": "https://i.ibb.co/nLYCB1w/bookstore-1.png",
+      "slide":
+      {
+        "img1":" https://i.ibb.co/MPrjjbR/mtm-add-1.png",
+        "img2":"https://i.ibb.co/dWy9tLV/mtm-login.png",
+        "img3":"https://i.ibb.co/0qNHcjQ/mtn-manage.png"
+      },
+      "featuresPart":{
+        "feature1":"Implemented Client site with React js and used React Router for Protected route",
+        "feature2":"Made Homepage , Login page and Dashboard for users who sign up",
+        "feature3":"Enabled admin role and had dashboard for admin users"
+      }
+    },
+    {"id" :3,
+      "name":"Bookstore",
+      "link":"https://bookstore-rashida1.netlify.app/",
+      "img": "https://i.ibb.co/nLYCB1w/bookstore-1.png",
+      "slide":
+      {
+        "img1":"https://i.ibb.co/nLYCB1w/bookstore-1.png",
+        "img2":"https://i.ibb.co/nLYCB1w/bookstore-1.png",
+        "img3":"https://i.ibb.co/nLYCB1w/bookstore-1.png"
+      },
+      "featuresPart":{
+        "feature1":"Implemented Client site with React js and used React Router for Protected route",
+        "feature2":"Made Homepage , Login page and Dashboard for users who sign up",
+        "feature3":"Enabled admin role and had dashboard for admin users"
+      }
+    }
+]
