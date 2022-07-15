@@ -38,9 +38,9 @@
         "img3":"https://i.ibb.co/0qNHcjQ/mtn-manage.png"
       },
       "featuresPart":{
-        "feature1":"Implemented Client site with React js and used React Router for Protected route",
-        "feature2":"Made Homepage , Login page and Dashboard for users who sign up",
-        "feature3":"Enabled admin role and had dashboard for admin users"
+        "feature1":"Created Homepage using banner , items and reviews",
+        "feature2":"Made Manage Items where users can manage their products",
+        "feature3":"Implemented firebase google authentication"
       }
     },
     {"id" :3,
@@ -56,9 +56,9 @@
         "img3":"https://i.ibb.co/nLYCB1w/bookstore-1.png"
       },
       "featuresPart":{
-        "feature1":"Implemented Client site with React js and used React Router for Protected route",
-        "feature2":"Made Homepage , Login page and Dashboard for users who sign up",
-        "feature3":"Enabled admin role and had dashboard for admin users"
+        "feature1":"Worked With React Router",
+        "feature2":"Javascript project having dashboard , reviews and blogs section",
+        "feature3":"Implemented Recharts for graphs"
       }
     },
     {"id" :4,
@@ -74,9 +74,9 @@
         "img3":"https://i.ibb.co/R4zZ8Cc/comtask.png"
       },
       "featuresPart":{
-        "feature1":"Implemented Client site with React js and used React Router for Protected route",
-        "feature2":"Made Homepage , Login page and Dashboard for users who sign up",
-        "feature3":"Enabled admin role and had dashboard for admin users"
+        "feature1":"Can be added your daily tasks with date",
+        "feature2":"Implemented day picker for calender ",
+        "feature3":"Completed task are for the task you completed"
       }
     }
 ]

@@ -15,7 +15,7 @@ const Navbar = () => {
                         <li className='hover:scale-125 transition delay-600 ease-in-out hover:text-red-800 hover:font-bold'><Link to='contacts'>Contact</Link></li>
                     </ul>
                 </div>
-                <Link className='hover:scale-125 transition delay-600 ease-in-out hover:text-red-800 hover:font-bold hover:ml-5 btn btn-ghost normal-case text-xl' to='/' >Portfolio</Link>
+                <Link className='hover:scale-125 transition delay-600 ease-in-out hover:text-red-800 hover:font-bold hover:ml-5 btn btn-ghost normal-case text-xl' to='/' ><img  style={{'width':'80px','height':'50px'}} src="https://t3.ftcdn.net/jpg/03/68/95/08/360_F_368950850_aMW6C9P5SV7udFGHWgz97fvgNVsnOvpp.jpg" alt="" /></Link>
             </div>
             <div className="navbar-end hidden lg:flex">
                 <ul className="menu menu-horizontal p-0">

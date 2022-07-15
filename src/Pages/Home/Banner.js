@@ -10,7 +10,7 @@ const Banner = () => {
                     </h1>
                     <h2 className="text-4xl font-bold hover:scale-125 transition duration-700 cursor-context-menu hover:text-orange-700 italic font-mono mr-3"> RASHIDA AKTER</h2>
                     <p className="py-6 text-2xl font-bold uppercase zoom hover:text-orange-900 font-mono"> front-end developer </p>
-                    <a target="_blank" href='https://drive.google.com/file/d/1gf3OwvYRGeaAkpZiRmhaKTdq03ABxVQY/view?usp=sharing' className="btn hover:scale-125 transition delay-600 ease-in-out  cursor-progress hover:text-red-900 hover:bg-stone-900" download>Resume</a>
+                    <a target="_blank" href='https://drive.google.com/file/d/1GOKgz1azymOhg0Sw2oh9btMe09sRKaVW/view?usp=sharing' className="btn hover:scale-125 transition delay-600 ease-in-out  cursor-progress hover:text-red-900 hover:bg-stone-900" download>Resume</a>
                 </div>
             </div>
         </div>
