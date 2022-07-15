@@ -1,13 +1,15 @@
 [
     {"id" :1,
       "name":"UNISEQ TECH & ENGINEERING LTD",
-      "link":"https://computer-parts-d6618.web.app/",
-      "img": "https://i.ibb.co/nLYCB1w/bookstore-1.png",
+      "clientLink":"https://computer-parts-d6618.web.app/",
+      "githubClient":"https://github.com/Rashidaakter1/uniseq-ltd",
+      "githubServer":"https://github.com/Rashidaakter1/uniseq-server-ltd",
+      "img": "https://i.ibb.co/mhpYBJF/image1.png",
       "slide":
       {
-        "img1":"https://i.ibb.co/nLYCB1w/bookstore-1.png",
-        "img2":"https://i.ibb.co/nLYCB1w/bookstore-1.png",
-        "img3":"https://i.ibb.co/nLYCB1w/bookstore-1.png"
+        "img1":" https://i.ibb.co/TKqnryN/uni-signup.png",
+        "img2":" https://i.ibb.co/P5ryDdP/uni-login.png",
+        "img3":" https://i.ibb.co/HH9SGVj/uni-admin.png"
       },
       "featuresPart":{
         "feature1":"Implemented Client site with React js and used React Router for Protected route",
@@ -18,12 +20,17 @@
 
 
    
+   
+   
+ 
 
 
     {"id" :2,
       "name":"MOTOR'S MANIA",
-      "link":"https://nextbike-204d0.web.app/",
-      "img": "https://i.ibb.co/nLYCB1w/bookstore-1.png",
+      "clientLink":"https://nextbike-204d0.web.app/",
+      "githubClient":"https://github.com/Rashidaakter1/next-bike-client",
+      "githubServer":"https://github.com/Rashidaakter1/next-bike-server",
+      "img": "https://i.ibb.co/6ZtFPCy/motor.png",
       "slide":
       {
         "img1":" https://i.ibb.co/MPrjjbR/mtm-add-1.png",
@@ -37,9 +44,11 @@
       }
     },
     {"id" :3,
-      "name":"Bookstore",
-      "link":"https://bookstore-rashida1.netlify.app/",
-      "img": "https://i.ibb.co/nLYCB1w/bookstore-1.png",
+      "name":"BOOKSTORE",
+      "clientLink":"https://bookstore-rashida1.netlify.app/",
+      "githubClient":"https://github.com/Rashidaakter1/Book-Store",
+      "githubServer":"https://github.com/Rashidaakter1/uniseq-server-ltd",
+      "img": "https://i.ibb.co/LC3dZB1/bookstore-2.png",
       "slide":
       {
         "img1":"https://i.ibb.co/nLYCB1w/bookstore-1.png",
@@ -51,5 +60,25 @@
         "feature2":"Made Homepage , Login page and Dashboard for users who sign up",
         "feature3":"Enabled admin role and had dashboard for admin users"
       }
+    },
+    {"id" :4,
+      "name":"TO DO APP",
+      "clientLink":"https://to-do-app-rashida1.netlify.app/",
+      "githubClient":"https://github.com/Rashidaakter1/to-do-app",
+      "githubServer":"https://github.com/Rashidaakter1/task-management-server",
+      "img": "https://i.ibb.co/19ZpBfD/todoapphome.png",
+      "slide":
+      {
+        "img1":"https://i.ibb.co/xFSnG1w/todoapphome.png",
+        "img2":"https://i.ibb.co/wrG1dB6/cal.png",
+        "img3":"https://i.ibb.co/R4zZ8Cc/comtask.png"
+      },
+      "featuresPart":{
+        "feature1":"Implemented Client site with React js and used React Router for Protected route",
+        "feature2":"Made Homepage , Login page and Dashboard for users who sign up",
+        "feature3":"Enabled admin role and had dashboard for admin users"
+      }
     }
 ]
+
+

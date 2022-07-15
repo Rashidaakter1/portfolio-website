@@ -43,30 +43,30 @@ const Contacts = () => {
             <div className='h-4/6'>
                 <div className=' mx-auto'>
 
-                    <div class="card w-full bg-base-100 shadow-xl mt-4 mb-5">
-                        <div class="card-body mb-8">
+                    <div className="card w-full bg-base-100 shadow-xl mt-4 mb-5">
+                        <div className="card-body mb-8">
                             <form className='lg:w-1/2  mx-auto' onSubmit={emailSender} action="">
 
-                                <div class="form-control ">
-                                    <label class="label">
-                                        <span class="label-text">Name</span>
+                                <div className="form-control ">
+                                    <label className="label">
+                                        <span className="label-text">Name</span>
                                     </label>
-                                    <input type="text" name='name' placeholder="Enter Your Name" class="input input-bordered" />
+                                    <input type="text" name='name' placeholder="Enter Your Name" className="input input-bordered" />
                                 </div>
-                                <div class="form-control">
-                                    <label class="label">
-                                        <span class="label-text">Email</span>
+                                <div className="form-control">
+                                    <label className="label">
+                                        <span className="label-text">Email</span>
                                     </label>
-                                    <input type="email" name='email' placeholder="Enter Your Email" class="input input-bordered" />
+                                    <input type="email" name='email' placeholder="Enter Your Email" className="input input-bordered" />
                                 </div>
-                                <div class="form-control p-4 mb-3">
+                                <div className="form-control p-4 mb-3">
                                     <label className='mb-4' >Give Your Valueable Reviews
                                     </label>
                                     <textarea className='text-black' name="describe" id="" cols="30" rows="10"></textarea>
 
                                 </div>
-                                <div class="form-control mt-6">
-                                    <input class="btn btn-primary" type="submit" value='Contact' />
+                                <div className="form-control mt-6">
+                                    <input className="btn btn-primary" type="submit" value='Contact' />
 
                                 </div>
 
